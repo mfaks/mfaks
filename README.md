@@ -6,16 +6,19 @@ I enjoy collaboration in a supportive and professional learning environment to d
 
 
 Relevant Coursework:
+
 Math | Differential Calculus, Integral Calculus, Vector Calculus, Discrete Mathematics, Linear Algebra. 
 Computer Science | Object-oriented Programming. 
 Writing | Technical Writing. 
 
 
 Programs and Technologies:
+
 Programming Languages | C++, Java, Python, Bash. 
 Familiar Technologies | Vim, Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft Office. 
 
 
 Contact Information:
+
 Muhammad Faks | muhammad.faks@gmail.com
 LinkdIn | https://www.linkedin.com/in/muhammad-faks-23794a211/

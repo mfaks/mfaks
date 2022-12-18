@@ -7,6 +7,7 @@ I enjoy collaboration in a supportive and professional learning environment to d
 **Relevant Coursework**: Differential Calculus, Integral Calculus, Vector Calculus, Discrete Mathematics, Linear Algebra, Object-oriented Programming, Technical Writing. 
 
 **Programming Languages**: C++, Java, Python, Bash. 
+
 **Familiar Technologies**: Vim, Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft Office. 
 
 Resume (Fall 2022):

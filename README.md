@@ -12,7 +12,8 @@ I enjoy collaboration in a supportive and professional learning environment to d
 **Familiar Technologies:** Vim, Git, Github, Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft Office. 
 
 **Resume (Winter 2023):**
-[Muhammad Faks Undergraduate Resume.docx](https://github.com/mfaks/mfaks/files/10273155/Muhammad.Faks.Undergraduate.Resume.docx)
+[Muhammad Faks Undergraduate Resume.docx](https://github.com/mfaks/mfaks/files/10283023/Muhammad.Faks.Undergraduate.Resume.docx)
+
 
 
 **Contact Information:**

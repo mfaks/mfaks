@@ -5,7 +5,7 @@ I am an outstanding communicator, an effective time manager, an organized academ
 I aspire to hone my programming techniques and fluency through practice with different languages and technologies. 
 I enjoy collaboration in a supportive and professional learning environment to develop my contributions as an aspiring Software Engineer.
 
-**Relevant Coursework:** Differential Calculus, Integral Calculus, Vector Calculus, Discrete Mathematics, Linear Algebra, Object-oriented Programming, Technical Writing. 
+**Relevant Coursework:** Differential Calculus, Integral Calculus, Vector Calculus, Discrete Mathematics, Linear Algebra, Object-Oriented Programming, Technical Writing. 
 
 **Programming Languages:** C/C++, Java, Python, Bash. 
 

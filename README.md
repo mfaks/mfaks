@@ -9,10 +9,10 @@ I enjoy collaboration in a supportive and professional learning environment to d
 
 **Programming Languages:** C/C++, Java, Python, Bash. 
 
-**Familiar Technologies:** Vim, Git, GitHub, Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft Office. 
+**Familiar Technologies:** Vim, GNU Debugger, Git, GitHub, Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft Office. 
 
 **Resume (Winter 2023):**
-[Muhammad Faks Undergraduate Resume.docx](https://github.com/mfaks/mfaks/files/10283837/Muhammad.Faks.Undergraduate.Resume.docx)
+[Muhammad Faks Resume.pdf](https://github.com/mfaks/mfaks/files/10297778/Muhammad.Faks.Resume.pdf)
 
 
 

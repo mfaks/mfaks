@@ -12,7 +12,7 @@ I enjoy collaboration in a supportive and professional learning environment to d
 **Familiar Technologies:** Git, GitHub, GNU Debugger, Microsoft Visual Studio, Microsoft Visual Studio Code, Vim, Microsoft Office. 
 
 **Resume (Winter 2023):**
-[Muhammad Faks Resume Winter 2023.pdf](https://github.com/mfaks/mfaks/files/10475423/Muhammad.Faks.Resume.Winter.2023.pdf)
+[Muhammad Faks Resume Winter 2023.pdf](https://github.com/mfaks/mfaks/files/10475515/Muhammad.Faks.Resume.Winter.2023.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com

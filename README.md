@@ -7,15 +7,12 @@ I enjoy collaboration in a supportive and professional learning environment to d
 
 **Relevant Coursework:** Differential Calculus, Integral Calculus, Vector Calculus, Discrete Mathematics, Linear Algebra, Object-Oriented Programming, Technical Writing. 
 
-**Programming Languages:** C/C++, Java, Python, Bash. 
+**Programming Languages:** C/C++, Python, Java. 
 
-**Familiar Technologies:** Vim, GNU Debugger, Git, GitHub, Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft Office. 
+**Familiar Technologies:** Git, GitHub, GNU Debugger, Microsoft Visual Studio, Microsoft Visual Studio Code, Vim, Microsoft Office. 
 
 **Resume (Winter 2023):**
-[Muhammad Faks Resume.pdf](https://github.com/mfaks/mfaks/files/10297778/Muhammad.Faks.Resume.pdf)
-
-
-
+[Muhammad Faks Resume Winter 2023.pdf](https://github.com/mfaks/mfaks/files/10475417/Muhammad.Faks.Resume.Winter.2023.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com

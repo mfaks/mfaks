@@ -5,14 +5,14 @@ I am an outstanding communicator, an effective time manager, an organized academ
 I aspire to hone my programming techniques and fluency through practice with different languages and technologies. 
 I enjoy collaboration in a supportive and professional learning environment to develop my contributions as an aspiring Software Engineer.
 
-**Relevant Coursework:** Differential Calculus, Integral Calculus, Vector Calculus, Discrete Mathematics, Linear Algebra, Object-Oriented Programming, Technical Writing. 
+**Relevant Coursework:** Discrete Math; Linear Algebra; Object-Oriented Programming; Data Structures; Technical Writing. 
 
-**Programming Languages:** C/C++, Python, Java. 
+**Programming Languages:** C/C++, Python, R, Java. 
 
-**Familiar Technologies:** Git, GitHub, GNU Debugger, Microsoft Visual Studio, Microsoft Visual Studio Code, Vim, Microsoft Office. 
+**Familiar Technologies:** Git, GitHub, GNU Debugger, Microsoft Visual Studio Code, Microsoft Visual Studio, Vim, Microsoft Office. 
 
 **Resume (Winter 2023):**
-[Muhammad Faks Resume 2023.pdf](https://github.com/mfaks/mfaks/files/10486239/Muhammad.Faks.Resume.2023.pdf)
+[Muhammad Faks Undergraduate Resume Winter 2023.pdf](https://github.com/mfaks/mfaks/files/10528469/Muhammad.Faks.Undergraduate.Resume.Winter.2023.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com

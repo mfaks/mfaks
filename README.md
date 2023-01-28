@@ -9,7 +9,7 @@ I am a second-year computer science student pursuing a Bachelor of Science in Co
 **Familiar Technologies:** Git, GitHub, GNU Debugger, Microsoft Visual Studio Code, Microsoft Visual Studio, Vim, Microsoft Office. 
 
 **Resume (Winter 2023):**
-[Muhammad Faks Undergraduate Resume Winter 2023.pdf](https://github.com/mfaks/mfaks/files/10528469/Muhammad.Faks.Undergraduate.Resume.Winter.2023.pdf)
+[Muhammad.Faks.Undergraduate.Resume.Winter.2023.pdf](https://github.com/mfaks/mfaks/files/10528516/Muhammad.Faks.Undergraduate.Resume.Winter.2023.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com

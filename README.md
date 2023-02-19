@@ -1,15 +1,15 @@
 Welcome! My name is Muhammad Faks (he/him/his).
 
-I am a second-year computer science student pursuing a Bachelor of Science in Computer Science at Oregon State University. I am an outstanding communicator, an organized academic, and an active member of the Oregon State College of Engineering community. I am excited to learn from industry professionals as I develop my contributions as an aspiring software engineer.
+I am a second-year computer science student pursuing a Bachelor of Science in Computer Science at Oregon State University. I possess excellent communication skills, am an organized academic, and am an active member of the Oregon State College of Engineering community. I am eager to learn from industry professionals as I develop my skills and contribute to the field as an aspiring software engineer.
 
-**Relevant Coursework:** Discrete Math; Linear Algebra; Object-Oriented Programming; Data Structures; Technical Writing. 
+**Relevant Coursework:** Object-Oriented Programming; Data Structures; Discrete Math; Linear Algebra; Technical Writing. 
 
-**Programming Languages:** C/C++, Python, R, Java. 
+**Programming Languages:** C/C++, Python, Java. 
 
-**Familiar Technologies:** Git, GitHub, GNU Debugger, Microsoft Visual Studio Code, Microsoft Visual Studio, Vim, Microsoft Office. 
+**Familiar Technologies:** Microsoft Visual Studio Code, GNU Debugger, GitHub, Git, Microsoft Visual Studio, Vim, Microsoft Office.
 
 **Resume (Winter 2023):**
-[Muhammad.Faks.Undergraduate.Resume.Winter.2023.pdf](https://github.com/mfaks/mfaks/files/10528516/Muhammad.Faks.Undergraduate.Resume.Winter.2023.pdf)
+[Muhammad Faks Resume Winter 2023.pdf](https://github.com/mfaks/mfaks/files/10777880/Muhammad.Faks.Resume.Winter.2023.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com

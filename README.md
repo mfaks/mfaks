@@ -6,7 +6,7 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 
 **Programming Languages:** Python, C/C++, C#, SQL, JavaScript, HTML/CSS. 
 
-**Familiar Technologies:** Visual Studio, Visual Studio Code, SQL Server Management Studio, ASP .NET, Node JS, Git, GitHub.
+**Familiar Technologies:**  Microsoft SQL Server, .NET, Node.js, MongoDB, Tableau, Visual Studio, Visual Studio Code, Git, GitHub.
 
 **Resume (Summer 2023):**
 [Muhammad Faks Resume 2023.pdf](https://github.com/mfaks/mfaks/files/11877629/Muhammad.Faks.Resume.2023.pdf)

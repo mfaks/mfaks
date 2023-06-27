@@ -9,7 +9,7 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 **Familiar Technologies:**  Microsoft SQL Server, .NET, Node.js, MongoDB, Tableau, Visual Studio, Visual Studio Code, Git, GitHub.
 
 **Resume (Summer 2023):**
-[Muhammad Faks Resume 2023.pdf](https://github.com/mfaks/mfaks/files/11877629/Muhammad.Faks.Resume.2023.pdf)
+[Muhammad Faks Resume 2023.pdf](https://github.com/mfaks/mfaks/files/11877664/Muhammad.Faks.Resume.2023.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com

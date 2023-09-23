@@ -9,7 +9,7 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 **Other:** Git, GitHub, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Office 365.    
 
 **Resume:** 
-[Muhammad Faks Resume.pdf](https://github.com/mfaks/mfaks/files/12705164/Muhammad.Faks.Resume.pdf)
+[Muhammad Faks Resume.pdf](https://github.com/mfaks/mfaks/files/12707349/Muhammad.Faks.Resume.pdf)
 
 **Contact Information:**    
 Email: muhammad.faks@gmail.com |

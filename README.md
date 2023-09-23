@@ -11,6 +11,6 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 **Resume:** 
 [Muhammad Faks Resume.pdf](https://github.com/mfaks/mfaks/files/12705164/Muhammad.Faks.Resume.pdf)
 
-**Contact Information:**
-Emmail: muhammad.faks@gmail.com |
+**Contact Information:**    
+Email: muhammad.faks@gmail.com |
 LinkedIn: https://www.linkedin.com/in/muhammad-faks

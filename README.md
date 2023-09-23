@@ -2,15 +2,15 @@ Hello There! My name is Muhammad Faks (he/him/his).
 
 I am a third-year computer science student pursuing a Bachelor of Science in Computer Science at Oregon State University. I possess excellent communication skills, am an organized academic, and am an active member of the Oregon State College of Engineering community. I am eager to learn from industry professionals as I develop my skills and contribute to the field as an aspiring software engineer.
 
-**Relevant Coursework:** Object-Oriented Programming; Data Structures; Analysis of Algorithms; Web Development; Discrete Mathematics; Vector Calculus; Linear Algebra; Technical Writing.
+**Relevant Coursework:** Object-Oriented Programming, Web Development, Data Structures, Analysis of Algorithms.
 
-**Programming Languages:** Python, C/C++, C#, SQL, JavaScript, HTML/CSS. 
+**Languages:** Python, C/C++, C#, SQL, JavaScript, HTML, CSS.
+**Technolgies:** .NET, React, Redux, Microsoft SQL Server, Node.js, MongoDB.
+**Other:** Git, GitHub, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Office 365.
 
-**Familiar Technologies:**  Microsoft SQL Server, .NET, Node.js, MongoDB, Tableau, Visual Studio, Visual Studio Code, Git, GitHub.
-
-**Resume (Summer 2023):**
-[Muhammad Faks Resume 2023.pdf](https://github.com/mfaks/mfaks/files/11889282/Muhammad.Faks.Resume.2023.pdf)
+**Resume:** 
+[Muhammad Faks Resume.pdf](https://github.com/mfaks/mfaks/files/12705164/Muhammad.Faks.Resume.pdf)
 
 **Contact Information:**
 Muhammad Faks | muhammad.faks@gmail.com
-LinkedIn | https://www.linkedin.com/in/muhammad-faks-23794a211/
+LinkedIn | https://www.linkedin.com/in/muhammad-faks

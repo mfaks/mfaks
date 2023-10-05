@@ -5,7 +5,7 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 **Relevant Coursework:** Object-Oriented Programming, Web Development, Data Structures, Analysis of Algorithms.
 
 **Languages:** Python, C/C++, JavaScript, C#, SQL, HTML, CSS.    
-**Technolgies:** .NET, React, Redux, Microsoft SQL Server, Node.js, MongoDB.    
+**Technolgies:** .NET, React, Redux, Microsoft SQL Server, Node.js, Express, MongoDB.    
 **Other:** Git, GitHub, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Office 365.    
 
 **Resume:** [Muhammad_Faks_Resume.pdf](https://github.com/mfaks/mfaks/files/12779100/Muhammad_Faks_Resume.pdf)

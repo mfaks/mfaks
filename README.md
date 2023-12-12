@@ -4,11 +4,11 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 
 **Relevant Coursework:** Object-Oriented Programming, Web Development, Data Structures, Analysis of Algorithms.
 
-**Programming Languages:** Python, C, C++, JavaScript, C#, SQL, HTML, CSS.     
-**Technologies:** ASP.NET, React, Redux, Material UI, Microsoft SQL Server, Node.js, Express, MongoDB.     
-**Other:** Git, GitHub, Azure DevOps, Figma, Tableau, GDB, Visual Studio, Visual Studio Code, Microsoft Office 365.     
+**Programming Languages:** Python, C++, JavaScript, TypeScript, SQL, HTML, CSS, C, C#, PHP. 
+**Technologies:** React, Redux, Node.js, Express, ASP.NET, MariaDB, MongoDB, Microsoft SQL Server, RabbitMQ. 
+**Other:** Git, Jupyter Notebooks, Tableau, Azure DevOps, Figma, Visual Studio, GitHub, Microsoft Office 365.    
 
-**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/12851523/Muhammad_Faks_resume.pdf)
+**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/13642977/Muhammad_Faks_resume.pdf)
 
 **Contact Information:**    
 Email: muhammad.faks@gmail.com     

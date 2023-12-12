@@ -8,7 +8,7 @@ I am a third-year computer science student pursuing a Bachelor of Science in Com
 **Technologies:** React, Redux, Node.js, Express, ASP.NET, MariaDB, MongoDB, Microsoft SQL Server, RabbitMQ. 
 **Other:** Git, Jupyter Notebooks, Tableau, Azure DevOps, Figma, Visual Studio, GitHub, Microsoft Office 365.    
 
-**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/13643840/Muhammad_Faks_resume.pdf)
+**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/13643847/Muhammad_Faks_resume.pdf)
 
 **Contact Information:**    
 Email: muhammad.faks@gmail.com     

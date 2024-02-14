@@ -1,14 +1,15 @@
 Hello There! My name is Muhammad Faks.
 
-I am a third-year computer science student pursuing a Bachelor of Science in Computer Science at Oregon State University. I possess excellent communication skills, am an organized academic, and am an active member of the Oregon State College of Engineering community. I am eager to learn from industry professionals as I develop my skills and contribute to the field as an aspiring software engineer.
+I am a third-year Computer Science student at Oregon State University. I currently work as a Software Developer for my university, where I collaborate with students and staff to build software products for our clients. I am an exceptional communicator and enjoy collaborating on innovative projects at the intersection of technology and real-world applications.
 
 **Relevant Coursework:** Object-Oriented Programming, Web Development, Databases, Analysis of Algorithms, Operating Systems
 
-**Programming Languages:** Python, C/C++, JavaScript, TypeScript, HTML/CSS, SQL, PHP, C#      
-**Technologies:** React, Redux, Node.js, Express, ASP.NET, Microsoft SQL Server, MySQL, MongoDB, RabbitMQ      
-**Developer Tools:** Git, GitHub, Jupyter Notebooks, Tableau, Figma, Azure DevOps, Visual Studio/Code, LaTeX    
+**Programming Languages:** Python, C/C++, Kotlin, SQL, C#, JavaScript, TypeScript, HTML/CSS, PHP    
+**Developer Technologies:** React, Redux, Node.js, Express.js, ASP.NET MVC, RabbitMQ, Cypress, Jest     
+**Data Technologies:** Tableau, Microsoft SQL Server, MySQL, MongoDB, Jupyter Notebooks, Microsoft Excel     
+**Developer Tools:** Git, GitHub, Figma, Azure DevOps, Visual Studio, Android Studio, LaTeX    
 
-**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/13851612/Muhammad_Faks_resume.pdf)
+**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/14283977/Muhammad_Faks_resume.pdf)
 
 **Contact Information:**    
 Email: muhammad.faks@gmail.com     

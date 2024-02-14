@@ -9,7 +9,7 @@ I am a third-year Computer Science student at Oregon State University. I current
 **Data Technologies:** Tableau, Microsoft SQL Server, MySQL, MongoDB, Jupyter Notebooks, Microsoft Excel     
 **Developer Tools:** Git, GitHub, Figma, Azure DevOps, Visual Studio, Android Studio, LaTeX    
 
-**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/14283977/Muhammad_Faks_resume.pdf)
+**Resume:** [Muhammad_Faks_resume.pdf](https://github.com/mfaks/mfaks/files/14284448/Muhammad_Faks_resume.pdf)    
 
 **Contact Information:**    
 Email: muhammad.faks@gmail.com     

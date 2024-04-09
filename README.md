@@ -1,6 +1,6 @@
 Hello There! My name is Muhammad Faks.
 
-I am a third-year Computer Science student at Oregon State University. I currently work as a Software Developer for my university, where I collaborate with students and staff to build software products for our clients. I am an exceptional communicator and enjoy collaborating on innovative projects at the intersection of technology and real-world applications.
+CS @ Oregon State University
 
 **Relevant Coursework:** Algorithms, Database Management, Full-Stack Development, Object-Oriented Programming
 

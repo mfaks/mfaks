@@ -1,5 +1,3 @@
-Hello There! My name is Muhammad Faks.
-
 CS @ Oregon State University
 
 **Relevant Coursework:** Algorithms, Database Management, Full-Stack Development, Object-Oriented Programming

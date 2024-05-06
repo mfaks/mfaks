@@ -1,4 +1,4 @@
-Third-Year Computer Science Student at Oregon State University with interests in Data Engineering, Data Science, and Artificial Intelligence. Expected to graduate with an M.S. in Computer Science in June 2026.
+Third-year computer science student at Oregon State University passionate about using big data to tell impactful stories and drive change. Constantly learning and experimenting with new data tools, with a focus on enhancing customer experiences aligned with business goals. Possesses strong analytical skills and expertise in Python, SQL, cloud computing, and data visualization, with a commitment to excellence and effective communication.
 
 **Contact Information:**    
 Email: muhammad.faks@gmail.com     

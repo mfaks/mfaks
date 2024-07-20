@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">Backend Frameworks</h2>
+<h2 align="left">Backend</h2>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">Frontend Frameworks & Libraries</h2>
+<h2 align="left">Frontend</h2>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>

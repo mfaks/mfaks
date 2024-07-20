@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🎓 I am a student, researcher, and software developer pursuing my M.S. in Computer Science at Oregon State University.<br><br>👨‍💻 My interests are artificial intelligence, data engineering, and distributed computing.</h3>
+<h2 align="left">🎓 I am a student, researcher, and software developer pursuing my M.S. in Computer Science at Oregon State University.<br><br>👨‍💻 My interests are artificial intelligence, data engineering, and distributed computing.</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Languages</h3>
+<h2 align="left">Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Backend Frameworks</h3>
+<h2 align="left">Backend Frameworks</h2>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">Frontend Frameworks & Libraries</h3>
+<h2 align="left">Frontend Frameworks & Libraries</h2>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">Data Technologies & Tools</h3>
+<h2 align="left">Data Technologies & Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">Developer Tools & Practices</h3>
+<h2 align="left">Developer Tools & Practices</h2>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>

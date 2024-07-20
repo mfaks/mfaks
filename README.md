@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🎓 I am a student, researcher, and software developer pursuing my M.S. in Computer Science at Oregon State University.<br><br>👨‍💻 My interests are artificial intelligence, data engineering, and distributed computing.</h2>
+<h3 align="left">🎓 I am a student, researcher, and software developer pursuing my M.S. in Computer Science at Oregon State University.<br><br>👨‍💻 My interests are artificial intelligence, data engineering, and distributed computing.</h3>
 
 ###
 

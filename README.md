@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋 I'm Muhammad Faks</h2>
 
-<p align="left">🎓 I am a student, researcher, and software developer pursuing an M.S. in Computer Science at Oregon State University.<br><br>👨‍💻 My interests include <strong>data engineering</strong>, <strong>data engineering</strong>, <strong>distributed computing</strong>, and <strong>artificial intelligence</strong>.</p>
+<p align="left">🎓 I am a student, researcher, and software developer pursuing an M.S. in Computer Science at Oregon State University.<br><br>👨‍💻 My interests include <strong>distributed computing</strong>, <strong>data engineering</strong>, and <strong>artificial intelligence</strong>.</p>
 
 <h3 align="left">🚀 Connect With Me</h3>
 

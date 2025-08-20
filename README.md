@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋 I'm Muhammad Faks</h2>
 
-<p align="left">🎓 I am a student and software developer at Oregon State University.<br><br>👨‍💻 My interests include <strong>distributed computing</strong>, <strong>data engineering</strong>, and <strong>artificial intelligence</strong>.</p>
+<p align="left">🎓 I am a student at Oregon State University.<br><br>👨‍💻 I am passionate about leveraging AI and data to drive business solutions, with interests in <strong>distributed computing</strong>, <strong>data engineering</strong>, and <strong>artificial intelligence</strong>.<br><br>💼 I have previously intered at <strong>Deloitte Consulting LLP</strong> and <strong>Daimler Truck North America</strong>.</p>
 
 <h3 align="left">🚀 Connect With Me</h3>
 
